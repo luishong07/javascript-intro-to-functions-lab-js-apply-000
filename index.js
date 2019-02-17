@@ -8,9 +8,9 @@ return string.toLowerCase()
 
 }
 
-// function logShout(string){
-//   console.log('HELLO'.toLowerCase())
-// }
+function logShout(string){
+  console.log('HELLO'.toLowerCase())
+}
 
 
 function logWhisper(string){
@@ -18,15 +18,15 @@ function logWhisper(string){
 }
 
 
-// function sayHiToGrandma (hello){
-//   return "I can\'t hear you!"
-// }
+function sayHiToGrandma (hello){
+  return "I can\'t hear you!"
+}
 
-// function sayHiToGrandma(HELLO){
-//   return "YES INDEED!"
-// }
+function sayHiToGrandma(HELLO){
+  return "YES INDEED!"
+}
 
-// function sayHiToGrandma("I love you, Grandma."){
-//   return " I love you, too."
-// }
+function sayHiToGrandma("I love you, Grandma."){
+  return " I love you, too."
+}
 
